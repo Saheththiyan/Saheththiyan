@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi 👋
+
+I’m Saheththiyan, a Computer Science & Engineering undergraduate from Sri Lanka, currently studying at the University of Moratuwa, specialising in Cyber Security.
+
+I enjoy building systems from backend applications to low-level and operating system projects. I’m particularly interested in security, system design, and understanding how software behaves under the hood.
+
+I’m always open to collaborating on interesting projects, open-source contributions, or anything that challenges me to grow.
+
+Connect with me on [LinkedIn](www.linkedin.com/in/saheththiyan-sri-baskaran-8286a0260).
 
 <!--
 **Saheththiyan/Saheththiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
