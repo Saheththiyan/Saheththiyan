@@ -11,8 +11,16 @@ I'm Saheththiyan, a Computer Science & Engineering undergraduate from Sri Lanka,
 I enjoy building systems, from backend applications to low-level and operating system projects. I'm particularly interested in security, system design, and understanding how software behaves under the hood.
 
 ```console
-$ ls ~/interests
-backend/   operating-systems/   low-level/   security/   system-design/
+$ neofetch
+        .-""""-.          saheththiyan@moratuwa
+       /  _  _  \         ---------------------
+      |  (o)(o)  |        Role     : CSE Undergraduate
+      |    __    |        Uni      : University of Moratuwa
+       \  \__/  /         Country  : Sri Lanka
+     .-'`------'`-.       Focus    : Cyber Security
+    /  /|  ||  |\  \      Builds   : Backend, OS, low-level
+   (  / |  ||  | \  )     Shell    : bash
+    `'  |__||__|  `'      Web      : saheththiyan.me
 ```
 
 ```console
@@ -29,6 +37,7 @@ $ ls ~/contact
 
 Open to collaborating on interesting projects, open-source contributions, or anything that challenges me to grow.
 
+- [Portfolio](https://saheththiyan.me)
 - [LinkedIn](https://www.linkedin.com/in/saheththiyan-sri-baskaran-8286a0260)
 
 ```console
