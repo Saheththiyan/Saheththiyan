@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-label="Terminal: whoami - Saheththiyan, CSE undergraduate, cyber security">
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 18px; }
+    .prompt { fill: #3fb950; }
+    .cmd { fill: #e6edf3; }
+    .out { fill: #79c0ff; }
+    .dim { fill: #8b949e; }
+    .line { opacity: 0; }
+    .l1 { animation: show 0.01s 0.3s forwards; }
+    .l2 { animation: show 0.01s 1.2s forwards; }
+    .l3 { animation: show 0.01s 1.9s forwards; }
+    .l4 { animation: show 0.01s 2.6s forwards; }
+    .l5 { animation: show 0.01s 3.3s forwards; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect width="800" height="220" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect width="800" height="34" rx="10" fill="#161b22"/>
+  <rect y="24" width="800" height="10" fill="#161b22"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="17" r="6" fill="#27c93f"/>
+  <text x="400" y="22" text-anchor="middle" class="mono dim" style="font-size:13px">saheththiyan@uom: ~</text>
+
+  <g class="mono">
+    <text x="24" y="70" class="line l1"><tspan class="prompt">$</tspan> <tspan class="cmd">whoami</tspan></text>
+    <text x="24" y="98" class="line l2 out">saheththiyan</text>
+    <text x="24" y="126" class="line l3"><tspan class="prompt">$</tspan> <tspan class="cmd">cat role.txt</tspan></text>
+    <text x="24" y="154" class="line l4 out">CSE undergrad @ University of Moratuwa | Cyber Security</text>
+    <text x="24" y="190" class="line l5"><tspan class="prompt">$</tspan> <tspan class="cmd cursor">_</tspan></text>
+  </g>
+</svg>
