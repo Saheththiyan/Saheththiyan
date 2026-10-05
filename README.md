@@ -24,22 +24,6 @@ $ ./contributions --skyline
 </p>
 
 ```console
-$ ./currently --building --learning
-building  : <your OS / backend project here>
-learning  : <what you're digging into right now>
-```
-
-<details>
-<summary><code>$ ls ~/projects</code></summary>
-
-<br>
-
-- **[project-name](https://github.com/Saheththiyan)**: one-line description
-- **[project-name](https://github.com/Saheththiyan)**: one-line description
-
-</details>
-
-```console
 $ ls ~/contact
 ```
 
@@ -53,5 +37,5 @@ cat: .secret: Permission denied   # try viewing the source ;)
 ```
 
 <!--
-FLAG{replace_me_with_your_own_flag}
+FLAG{h4h4_g0tchu_n1c3_try_sk1d}
 -->
